@@ -5,8 +5,7 @@ Full stack web dev / Tech-savvy and continuously curious learner
 ----------------------------------------------------------------
 
 Versatile technician, and very curious. I'm always up to learning something new.  
-Started learning software development in 2016, haven't stopped...  
-Previously lead technicien in an arthouse cinema, currently undergoing a career change.  
+Started learning software development in 2016, haven't stopped...   
 Native language : English , been living in France for the past 30 some years, so perfectly bilingual  
 
 *   🌍  I'm based in Bayonne - France
