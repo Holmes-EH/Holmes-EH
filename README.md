@@ -6,24 +6,26 @@ I build high-performance backend systems and lead engineering teams. My focus is
 
 Currently working on shared memory implementations in Rust and gRPC-based microservices architectures in Go.
 
-- 🌍  Based in Bayonne, France
-- 🖥️  Portfolio at [samuelholmes.tech](http://samuelholmes.tech)
-- 🦀  Deep expertise in Rust for systems programming and performance-critical applications
-- 🔧  Building distributed systems with Go, gRPC, and microservices patterns
-- 🌐  Fluent in full-stack web development with modern frameworks and tooling
-- 🗣️  Perfectly bilingual: English (native) & French
+- 🌍 Based in Bayonne, France
+- 🖥️ Portfolio at [samuelholmes.tech](http://samuelholmes.tech)
+- 🦀 Focusing on Rust for systems programming and performance-critical applications
+- 🔧 Building distributed systems with Go, gRPC, and microservices patterns
+- 🌐 Fluent in full-stack web development with modern frameworks and tooling
+- 🗣️ Perfectly bilingual: English (native) & French
 
 ### Core Technologies
 
 **Systems & Backend**
+
 <p align="left">
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="36" height="36" alt="Rust" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 **Web Technologies**
+
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
